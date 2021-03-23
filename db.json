@@ -1,4 +1,4 @@
 {
 	"Role": "Admin",
-        "AccessRoutes": ["/home", "/find-learning"]
+        "AccessRoutes": ['/home', '/find-learning']
 }
