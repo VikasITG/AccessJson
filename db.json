@@ -1,5 +1,11 @@
 {
-	"data" : {
-	"Role": "Admin"
+	"Keys":  {
+      "title": "你好开发人员",
+      "hi": "欢迎浦那 欢迎浦那 欢迎浦那"
+	}
+	,
+	"language": {
+		"name": "english",
+		"Code": "chi"
 	}
 }
