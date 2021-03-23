@@ -1,6 +1,6 @@
 {
 	"data":  {
-      "title": "你好开发人员",
-      "hi": "欢迎浦那 欢迎浦那 欢迎浦那"
+      "Role": "Admin",
+      "AccessRoutes": ["/home", "/find-learning"]
 	}
 }
