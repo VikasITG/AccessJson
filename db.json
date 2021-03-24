@@ -4,7 +4,8 @@
     "AccessRoutes": [
       "/home",
       "/find-learning",
-      "/personal-master"
+      "/personal-master",
+      "/my-learning"
     ],
     "Permissions": [
       "MyTeam"
