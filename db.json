@@ -1,6 +1,13 @@
 {
-	"data":  {
-      "Role": "Admin",
-      "AccessRoutes": ["/home", "/find-learning", "/personal-master"]
-	}
+  "data": {
+    "Role": "Admin",
+    "AccessRoutes": [
+      "/home",
+      "/find-learning",
+      "/personal-master"
+    ],
+    "Permissions": [
+      "MyTeam"
+    ]
+  }
 }
